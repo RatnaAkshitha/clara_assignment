@@ -4,3 +4,7 @@
 
 #streamlit ui
 ![simple ui](image.png)
+
+
+#local deployment
+![local-host](imagecopy.png)
