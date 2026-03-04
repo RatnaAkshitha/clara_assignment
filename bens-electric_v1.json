@@ -1,0 +1,11 @@
+{
+  "account_name": "bens-electric",
+  "version": "v1",
+  "crm": "Jobber",
+  "services": [
+    "Outlet replacement",
+    "EV charger installation",
+    "Hot tub wiring",
+    "Electrical troubleshooting"
+  ]
+}

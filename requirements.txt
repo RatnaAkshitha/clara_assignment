@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+whisper
+ffmpeg-python
+python-multipart
+sqlalchemy
+python-dotenv
+deepdiff
+requests

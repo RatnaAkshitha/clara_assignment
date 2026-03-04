@@ -1,0 +1,8 @@
+services:
+  n8n:
+    image: n8nio/n8n
+    ports:
+      - "5678:5678"
+    volumes:
+      - ./workflows:/home/node/.n8n
+      - ./outputs:/data

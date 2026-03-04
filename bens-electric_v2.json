@@ -1,0 +1,7 @@
+{
+  "account_name": "bens-electric",
+  "version": "v2",
+  "plan": "Starter Plan",
+  "minutes_per_month": 500,
+  "price_per_month": 249
+}
